@@ -1,0 +1,20 @@
+{
+  "name": "commandline",
+  "version": "1.0.0",
+  "bin": {
+    "js": "./index.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "commander": "^15.0.0",
+    "screenshot-desktop": "^1.15.4"
+  }
+}

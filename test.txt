@@ -1,0 +1,3 @@
+for dowload all extension please in cmd or CommandLine:
+npm i
+// for down node_modules
